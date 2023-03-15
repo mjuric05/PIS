@@ -8,6 +8,7 @@ namespace ConsoleApplication
     {
         public void emptyMetod() 
         { 
+            //sfkfklasdklč
         }
     }
     
