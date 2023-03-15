@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApplication
@@ -7,7 +8,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
-            //Random text
+            Console.WriteLine("Novo");
         }
     }
 }
