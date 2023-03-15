@@ -7,4 +7,6 @@ namespace ConsoleApplication
     class NewClass
     {
     }
+    
+    //komentar za zagorcat zivot
 }
