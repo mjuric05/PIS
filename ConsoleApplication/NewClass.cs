@@ -8,12 +8,16 @@ namespace ConsoleApplication
     {
         public void emptyMetod() 
         { 
-            //sfkfklasdklč
+            //Added empty metod
+        }
+
+        public void TestMethod()
+        {
+            //conflict solved
         }
     }
     
-    public void TestMethod(){
-    }
+
     
     //komentar za zagorcat zivot
 }
