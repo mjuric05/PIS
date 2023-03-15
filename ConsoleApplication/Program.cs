@@ -9,6 +9,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
+            Console.WriteLine("Brsta was here");
         }
     }
 }
