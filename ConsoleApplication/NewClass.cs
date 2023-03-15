@@ -6,5 +6,8 @@ namespace ConsoleApplication
 {
     class NewClass
     {
+        public void emptyMetod() 
+        { 
+        }
     }
 }
