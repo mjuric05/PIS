@@ -10,4 +10,6 @@ namespace ConsoleApplication
         { 
         }
     }
+    
+    //komentar za zagorcat zivot
 }
