@@ -8,5 +8,8 @@ namespace ConsoleApplication
     {
     }
     
+    public void TestMethod(){
+    }
+    
     //komentar za zagorcat zivot
 }
